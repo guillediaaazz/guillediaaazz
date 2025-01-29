@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @guillediaaazz
-- 👀 I’m interested in DIY projects (particularly electronics for modular synthesizers) and videogames such as Kerbal Space Program
-- 🌱 I’m currently studying physics but I want to learn about programming so I'm starting on this
+- 🎧 I’m interested in DIY projects (particularly electronics for modular synthesizers) and other audio applications
+- 🎵 like synthesis or DSP in vsts, music production, mixing, analog audio equipment
+- 🌱 I’m currently studying physics but I love to keep learning about many other disciplines.
 - 💞️ I’m looking to collaborate on different electronics projects, maybe projects which require that pyshics knowledge.
 - 📫 It's possible to reach me via email: guillediazmata@gmail.com
 <!---
